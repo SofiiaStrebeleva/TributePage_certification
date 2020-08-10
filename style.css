@@ -1,0 +1,55 @@
+body {
+	background-color: rgba(255,226,199,0.71);
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+
+ul {
+	max-width: 550px;
+	margin: 0 auto 50px auto;
+	text-align: left;
+	line-height: 1.6;
+}
+
+li {
+	font-family: 'Lora', serif;
+	color: #606653;
+	margin: 16px 0;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+}
+
+
+#headline {
+	margin: 50px 0;
+	font-weight: bold;
+}
+
+#img-div {
+	text-align: center;
+	background-color: #bebca7;
+	padding-bottom: 5px;
+	padding-top: 15px;
+}
+
+#tribute-info {
+	display: block;
+
+}
+
+strong {
+	color: black;
+}
+
+a {
+	color: lightcoral;
+}
+
+a:hover {
+	color: #606653;
+}
